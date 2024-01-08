@@ -1,0 +1,7 @@
+#!/bin/bash
+
+yum-get update
+yum-get install ngnix -y
+
+echo " welcome to git " >gin
+
